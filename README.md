@@ -1,4 +1,4 @@
-# App-Store-React-Native-App
+# App Store UI: React-Native App
 
 ![Image](https://cdn.dribbble.com/userupload/5614167/file/original-ffb1248e901ee525e6bb208d172a967b.png?compress=1&resize=2048x1536)
 
